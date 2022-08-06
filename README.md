@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @meetkothari 
 - 👀 I’m interested in python,react
 - 🌱 I’m currently learning SQL, MERN, MEAN.
-- 📫 How to reach me https://mskothari.netlify.app/
+- 📫 You can reach out to me on [Linkedin](https://www.linkedin.com/in/kothari-meet/) or my email: kotharimeet07@gmail.com
+- 👯 For more [Website@mskothari](https://mskothari.netlify.app/)
 
 <!---
 mskothari07/mskothari07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
