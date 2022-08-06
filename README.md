@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @meetkothari 
-- 👀 I’m interested in python,react
+- 👀 I’m interested in python,react,cloud
 - 🌱 I’m currently learning SQL, MERN, MEAN.
 - 📫 You can reach out to me on [Linkedin](https://www.linkedin.com/in/kothari-meet/) or my email: kotharimeet07@gmail.com
 - 👯 For more [Website@mskothari](https://mskothari.netlify.app/)
